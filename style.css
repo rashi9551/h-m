@@ -124,6 +124,19 @@
     flex-direction: column;
     margin-top: 20px;
     cursor: pointer;
+    position: relative;
+}
+.butt{
+    position: absolute;
+    top: 85%;
+
+}
+.wrapper button{
+    background-color: white;
+    padding: 19px;
+    font-weight: bold;
+    cursor: pointer;
+    
 }
 .wrapper img{
     width: 67%;
